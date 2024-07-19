@@ -11,5 +11,4 @@ I am a person who loves everything about technology and its value. To me, when y
 - Git
 - GitHub
 - VSCode
-- Postman
 - Firebase
