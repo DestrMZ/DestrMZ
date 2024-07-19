@@ -1,6 +1,15 @@
 ## Hi there 👋
-I'm a newbie mobile developer, trying to create useful and minimalist apps every day.
+I am a person who loves everything about technology and its value. To me, when you stop learning, you stop living.
 
-### Языки и фреймворки:
-<p><li>Swift/Objective (SwiftUI)<br>
-<li>Python (Flask)</p>
+### Languages ​​and frameworks:
+- Swift (SwiftUI/UIKit)
+- Python (Flask)
+- HTML, CSS
+
+### Dev Tools:
+- Xcode
+- Git
+- GitHub
+- VSCode
+- Postman
+- Firebase
