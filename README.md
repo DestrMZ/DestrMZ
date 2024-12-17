@@ -3,7 +3,7 @@ I am a person who loves everything about technology and its value. To me, when y
 
 ### 🛠 Languages and Frameworks:
 - **Swift/Objective-C** (SwiftUI/UIKit)
-- **Python** (Flask)
+- **Python** (Django)
 
 ### 🔧 Dev Tools:
 - **Xcode**
@@ -11,4 +11,5 @@ I am a person who loves everything about technology and its value. To me, when y
 - **VSCode**
 - **Firebase**
 - **CoreData**
+- **SwiftData**
 - **CocoaPods**
